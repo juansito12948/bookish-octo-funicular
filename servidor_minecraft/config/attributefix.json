@@ -11,6 +11,17 @@
         "value": 512
       }
     },
+    "attributeslib:ghost_health": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "confluence:crit_chance": {
       "enabled": false,
       "min": {
@@ -31,17 +42,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "attributeslib:ghost_health": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
       }
     },
     "minecraft:generic.follow_range": {
@@ -77,17 +77,6 @@
         "value": 1
       }
     },
-    "irons_spellbooks:nature_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "attributeslib:armor_shred": {
       "enabled": false,
       "min": {
@@ -97,6 +86,17 @@
       "max": {
         "default": 2,
         "value": 2
+      }
+    },
+    "irons_spellbooks:nature_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "betterparagliders:horizontal_wall_run_stamina_reduction": {
@@ -319,17 +319,6 @@
         "value": 100
       }
     },
-    "irons_spellbooks:holy_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "l2damagetracker:explosion_damage": {
       "enabled": false,
       "min": {
@@ -339,6 +328,17 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "irons_spellbooks:holy_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "irons_spellbooks:evocation_magic_resist": {
@@ -649,17 +649,6 @@
         "value": 8
       }
     },
-    "irons_spellbooks:holy_magic_resist": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "enhancedai:generic.xray_follow_range": {
       "enabled": false,
       "min": {
@@ -669,6 +658,17 @@
       "max": {
         "default": 256,
         "value": 256
+      }
+    },
+    "irons_spellbooks:holy_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "betterparagliders:breakfall_stamina_reduction": {
@@ -715,17 +715,6 @@
         "value": 100
       }
     },
-    "confluence:ranged_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
     "l2damagetracker:damage_absorption": {
       "enabled": false,
       "min": {
@@ -735,6 +724,17 @@
       "max": {
         "default": 10000,
         "value": 10000
+      }
+    },
+    "confluence:ranged_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "confluence:pickup_range": {
@@ -880,17 +880,6 @@
         "value": 10000
       }
     },
-    "irons_spellbooks:ice_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "attributeslib:fire_damage": {
       "enabled": false,
       "min": {
@@ -900,6 +889,17 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "irons_spellbooks:ice_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "minecraft:generic.attack_knockback": {
