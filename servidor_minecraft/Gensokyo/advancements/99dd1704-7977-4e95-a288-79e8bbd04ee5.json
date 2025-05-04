@@ -1,0 +1,77 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-04-05 10:17:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:19:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-04-09 08:24:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:19:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-04-05 10:19:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:19:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:19:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:19:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-04-05 10:17:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:19:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2020-04-05 10:31:48 -0700",
+      "minecraft:mountains": "2020-04-05 10:55:20 -0700",
+      "minecraft:forest": "2020-04-09 08:32:37 -0700",
+      "minecraft:snowy_tundra": "2020-04-05 10:33:20 -0700",
+      "minecraft:desert": "2020-04-05 10:56:52 -0700",
+      "minecraft:jungle": "2020-04-05 10:17:41 -0700",
+      "minecraft:river": "2020-04-05 10:32:12 -0700",
+      "minecraft:wooded_mountains": "2020-04-05 10:55:00 -0700",
+      "minecraft:plains": "2020-04-05 10:56:37 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

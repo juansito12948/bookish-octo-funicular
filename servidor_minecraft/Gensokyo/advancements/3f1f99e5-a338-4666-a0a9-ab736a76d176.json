@@ -1,0 +1,74 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-04-05 10:16:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:20:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:20:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-04-05 10:17:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:20:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:20:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:20:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-04-05 10:16:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-04-05 10:20:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2020-04-05 10:26:09 -0700",
+      "minecraft:mountains": "2020-04-05 10:31:49 -0700",
+      "minecraft:taiga": "2020-04-05 10:31:09 -0700",
+      "minecraft:snowy_tundra": "2020-04-05 10:26:42 -0700",
+      "minecraft:jungle": "2020-04-05 10:16:53 -0700",
+      "minecraft:birch_forest": "2020-04-05 10:54:42 -0700",
+      "minecraft:beach": "2020-04-05 10:54:54 -0700",
+      "minecraft:river": "2020-04-05 10:26:22 -0700",
+      "minecraft:birch_forest_hills": "2020-04-05 10:54:43 -0700",
+      "minecraft:wooded_mountains": "2020-04-05 10:35:39 -0700",
+      "minecraft:stone_shore": "2020-04-05 10:54:58 -0700",
+      "minecraft:plains": "2020-04-05 10:55:04 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
