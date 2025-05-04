@@ -4859,3 +4859,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [04May2025 21:25:08.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz left the game
 [04May2025 21:25:57.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59df6d9f[id=<null>,name=ElYunoz,properties={},legacy=false] (/127.102.116.192:50255) lost connection: Disconnected
 [04May2025 21:26:30.806] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bf8c3ec[id=<null>,name=ElYunoz,properties={},legacy=false] (/127.102.116.192:50667) lost connection: Disconnected
+[04May2025 21:27:04.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a79b253[id=<null>,name=ElYunoz,properties={},legacy=false] (/127.102.116.192:50149) lost connection: Disconnected
+[04May2025 21:28:00.106] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64bd3ae5[id=<null>,name=ElYunoz,properties={},legacy=false] (/127.102.116.192:34297) lost connection: Disconnected
+[04May2025 21:28:34.656] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46ac0078[id=<null>,name=ElYunoz,properties={},legacy=false] (/127.102.116.192:49483) lost connection: Disconnected
+[04May2025 21:29:38.657] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b764ce2[id=<null>,name=ElYunoz,properties={},legacy=false] (/127.102.116.192:46545) lost connection: Disconnected
+[04May2025 21:30:13.056] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@212def8b[id=<null>,name=ElYunoz,properties={},legacy=false] (/127.102.116.192:41445) lost connection: Disconnected
+[04May2025 21:33:31.311] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElYunoz is 14bb83ad-e751-4307-ac1f-4b9aacf53df9
+[04May2025 21:33:39.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElYunoz[/127.102.116.192:36439] logged in with entity id 1401 at (132.30379391446203, 69.03311597628492, -131.11122146379105)
+[04May2025 21:33:39.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz joined the game
+[04May2025 21:33:40.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElYunoz lost connection: Disconnected
+[04May2025 21:33:40.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz left the game
+[04May2025 21:35:01.550] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player gafsgaf is c54db089-5602-4d36-857e-ea866bde8d58
+[04May2025 21:35:07.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gafsgaf[/127.63.106.37:57419] logged in with entity id 1406 at (-37.5, 69.0, -84.5)
+[04May2025 21:35:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gafsgaf joined the game
+[04May2025 21:35:07.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gafsgaf has made the advancement [Monsters And Girls]
+[04May2025 21:35:07.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gafsgaf has made the advancement [Terramity]
+[04May2025 21:35:08.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gafsgaf lost connection: Disconnected
+[04May2025 21:35:08.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gafsgaf left the game
+[04May2025 21:35:52.256] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@314512f9[id=<null>,name=gafsgaf,properties={},legacy=false] (/127.63.106.37:51065) lost connection: Disconnected
+[04May2025 21:35:58.899] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player gafsgaf is c54db089-5602-4d36-857e-ea866bde8d58
+[04May2025 21:36:04.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gafsgaf[/127.63.106.37:41005] logged in with entity id 1440 at (-37.5, 69.0, -84.5)
+[04May2025 21:36:05.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gafsgaf joined the game
+[04May2025 21:36:05.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gafsgaf lost connection: Disconnected
+[04May2025 21:36:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gafsgaf left the game
