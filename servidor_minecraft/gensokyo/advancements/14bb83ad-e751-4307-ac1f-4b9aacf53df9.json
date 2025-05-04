@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-05-04 13:41:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-04 13:41:13 +0000",
@@ -18,39 +12,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-05-04 13:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-05-04 13:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-05-04 13:41:49 +0000"
-    },
-    "done": true
-  },
   "youkaishomecoming:main/welcome_to_youkais_homecoming": {
     "criteria": {
       "0": "2025-05-04 13:51:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-04 13:51:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-04 13:51:52 +0000"
     },
     "done": true
   },
@@ -59,12 +23,6 @@
       "seeds": "2025-05-04 13:51:52 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:creeper": "2025-05-04 14:06:23 +0000"
-    },
-    "done": false
   },
   "paraglider:paraglider": {
     "criteria": {
@@ -78,11 +36,11 @@
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_paragliders": "2025-05-04 14:05:31 +0000"
+      "minecraft:creeper": "2025-05-04 14:06:23 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
@@ -90,9 +48,57 @@
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/paraglider": {
+  "ironfurnaces:coal": {
     "criteria": {
-      "has_paragliders": "2025-05-04 14:05:31 +0000"
+      "rainbowcoal": "2025-05-04 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2025-05-04 20:32:14 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:give_smart_slab": {
+    "criteria": {
+      "tick": "2025-05-04 20:32:15 +0000"
+    },
+    "done": true
+  },
+  "touhou_little_maid:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-05-04 20:32:15 +0000"
+    },
+    "done": true
+  },
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2025-05-04 20:38:47 +0000"
+    },
+    "done": true
+  },
+  "monsters_and_girls:monsters_and_girlsadvancement": {
+    "criteria": {
+      "monsters_and_girlsadvancement": "2025-05-04 20:38:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-04 20:38:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-05-04 20:38:47 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2025-05-04 20:44:20 +0000"
     },
     "done": true
   },
