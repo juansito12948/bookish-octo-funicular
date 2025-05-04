@@ -11,6 +11,17 @@
         "value": 512
       }
     },
+    "betterparagliders:fast_swimming_stamina_reduction": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "attributeslib:ghost_health": {
       "enabled": false,
       "min": {
@@ -31,17 +42,6 @@
       "max": {
         "default": 10,
         "value": 10
-      }
-    },
-    "betterparagliders:fast_swimming_stamina_reduction": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "minecraft:generic.follow_range": {
@@ -836,17 +836,6 @@
         "value": 1
       }
     },
-    "confluence:aggro": {
-      "enabled": false,
-      "min": {
-        "default": -10000,
-        "value": -10000
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
     "betterparagliders:block_stamina_reduction": {
       "enabled": false,
       "min": {
@@ -856,6 +845,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "confluence:aggro": {
+      "enabled": false,
+      "min": {
+        "default": -10000,
+        "value": -10000
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "betterparagliders:range_stamina_reduction": {
@@ -1023,17 +1023,6 @@
         "value": 1024
       }
     },
-    "confluence:magic_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
     "forge:nametag_distance": {
       "enabled": false,
       "min": {
@@ -1054,6 +1043,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "confluence:magic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "irons_spellbooks:blood_magic_resist": {
