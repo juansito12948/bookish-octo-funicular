@@ -1,0 +1,87 @@
+[04May2025 14:02:38.276] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.39, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[04May2025 14:02:38.283] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.6 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[04May2025 14:02:38.549] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04May2025 14:02:38.637] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/bookish-octo-funicular/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04May2025 14:02:39.065] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-octo-funicular/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.39/fmlcore-1.20.1-47.3.39.jar is missing mods.toml file
+[04May2025 14:02:39.068] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-octo-funicular/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.39/javafmllanguage-1.20.1-47.3.39.jar is missing mods.toml file
+[04May2025 14:02:39.071] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-octo-funicular/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.39/lowcodelanguage-1.20.1-47.3.39.jar is missing mods.toml file
+[04May2025 14:02:39.073] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bookish-octo-funicular/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.39/mclanguage-1.20.1-47.3.39.jar is missing mods.toml file
+[04May2025 14:02:39.435] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[04May2025 14:02:39.440] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/bookish-octo-funicular/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[04May2025 14:02:39.441] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[04May2025 14:02:43.068] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04May2025 14:02:43.187] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04May2025 14:02:43.535] [main/WARN] [mixin/]: Reference map 'betterparagliders.mixins.refmap.json' for betterparagliders.mixins.json could not be read. If this is a development environment you can ignore this message
+[04May2025 14:02:45.060] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/actors/harvester/HarvesterMovementBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.contraptions.actors.harvester.HarvesterMovementBehaviour)
+[04May2025 14:02:45.826] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[04May2025 14:02:45.827] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
+[04May2025 14:02:45.828] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.LocalPlayer was not found edxbt.mixin.json:HandsBusyMixin
+[04May2025 14:02:45.833] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[04May2025 14:02:45.834] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
+[04May2025 14:02:45.834] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.LocalPlayer was not found edxbt.mixin.json:LocalPlayerAccessor
+[04May2025 14:02:46.552] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
+[04May2025 14:02:57.491] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04May2025 14:02:58.366] [modloading-worker-0/INFO] [net.uozzi.edxbt.EDxBT/]: edxbt has been initialized!
+[04May2025 14:02:58.414] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.39, for MC 1.20.1 with MCP 20230612.114412
+[04May2025 14:02:58.415] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.39 Initialized
+[04May2025 14:03:02.140] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/bookish-octo-funicular/servidor_minecraft/config/farmersdelight-common.toml is not correct. Correcting
+[04May2025 14:03:02.572] [modloading-worker-0/INFO] [dev.xkmc.youkaishomecoming.init.YoukaisHomecoming/]: HashMap test result: hash=248, L2O=121
+[04May2025 14:03:02.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04May2025 14:03:03.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.39 Target: 47.4.0
+[04May2025 14:03:08.453] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04May2025 14:03:12.384] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bookish-octo-funicular/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23129!/assets/.mcassetsroot' uses unexpected schema
+[04May2025 14:03:12.385] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bookish-octo-funicular/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23129!/data/.mcassetsroot' uses unexpected schema
+[04May2025 14:03:17.934] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[04May2025 14:03:18.192] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1905 advancements
+[04May2025 14:03:21.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[04May2025 14:03:21.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04May2025 14:03:21.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04May2025 14:03:21.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04May2025 14:03:22.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04May2025 14:03:22.325] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04May2025 14:03:22.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "gensokyo"
+[04May2025 14:03:31.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04May2025 14:03:39.594] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.596] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.598] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.600] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.605] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.608] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.610] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.614] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.618] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.619] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.620] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.623] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.624] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.627] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.629] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:39.898] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:40.389] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:40.889] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:41.388] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 14:03:42.174] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10287 ms
+[04May2025 14:03:42.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.699s)! For help, type "help"
+[04May2025 14:03:42.231] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04May2025 14:03:42.333] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 13226 bytes (in 2 string chunks with the size of 10000)
+[04May2025 14:05:00.441] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49dd38e[id=<null>,name=ElYunoz,properties={},legacy=false] (/127.102.116.192:33359) lost connection: Disconnected
+[04May2025 14:05:07.183] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ElYunoz is 14bb83ad-e751-4307-ac1f-4b9aacf53df9
+[04May2025 14:05:11.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElYunoz[/127.102.116.192:33005] logged in with entity id 198 at (50.16486094942136, 80.0, -123.30093081857727)
+[04May2025 14:05:11.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz joined the game
+[04May2025 14:05:31.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz has reached the goal [Half a flight]
+[04May2025 14:06:20.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz has made the advancement [A Throwaway Joke]
+[04May2025 14:06:23.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz has made the advancement [Monster Hunter]
+[04May2025 14:06:24.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElYunoz lost connection: Disconnected
+[04May2025 14:06:24.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElYunoz left the game
+[04May2025 14:06:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04May2025 14:06:30.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04May2025 14:06:30.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04May2025 14:06:30.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04May2025 14:06:32.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[gensokyo]'/minecraft:overworld
+[04May2025 14:06:33.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[gensokyo]'/minecraft:the_nether
+[04May2025 14:06:33.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[gensokyo]'/minecraft:the_end
+[04May2025 14:06:33.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gensokyo): All chunks are saved
+[04May2025 14:06:33.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04May2025 14:06:33.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04May2025 14:06:33.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
