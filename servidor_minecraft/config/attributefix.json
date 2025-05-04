@@ -220,17 +220,6 @@
         "value": 1024
       }
     },
-    "irons_spellbooks:cast_time_reduction": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "stardew_fishing:bar_size": {
       "enabled": false,
       "min": {
@@ -240,6 +229,17 @@
       "max": {
         "default": 142,
         "value": 142
+      }
+    },
+    "irons_spellbooks:cast_time_reduction": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "feathers:feathers.feather_regen": {
