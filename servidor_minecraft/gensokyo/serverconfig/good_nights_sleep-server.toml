@@ -1,0 +1,10 @@
+
+#
+# Good Night's Sleep World Configuration
+#
+["Live World"]
+	#Allows Phantoms to spawn in the Nightmare dimension.
+	allow_nightmare_phantoms = true
+	#Lower riders of Zombie Horses to correctly sit on the horse, matching that of the Skeleton one.
+	correct_zombie_horse_height = false
+
